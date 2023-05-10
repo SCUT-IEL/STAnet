@@ -10,7 +10,7 @@ The public [KUL dataset](https://doi.org/10.5281/zenodo.3997352) and [DTU datase
 
 ## Paper
 
-![model](./pic/model.jpg)
+![model](./pic/model.png)
 
 Paper Link: [**STAnet: A Spatiotemporal Attention Network for Decoding Auditory Spatial Attention From EEG**](https://ieeexplore.ieee.org/abstract/document/9669037)
 
